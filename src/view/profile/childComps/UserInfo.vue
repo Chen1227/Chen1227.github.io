@@ -15,7 +15,7 @@
           <slot name="user-phone">暂无绑定手机号</slot>
         </div>
       </div>
-      <svg data-v-735ff1be="" fill="#fff" class="arrow-svg right"><use data-v-735ff1be="" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arrow-right"></use></svg>
+      <svg data-v-735ff1be="" fill="#fff" class="arrow-svg right"></svg>
     </a>
   </div>
 </template>
